@@ -1,6 +1,6 @@
 # 67
 
-![Screenshot](screenshot.png)
+![Screenshot](../../../../screenshot.png)
 
 Six seven!
 
