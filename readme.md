@@ -1,4 +1,7 @@
 # 67
+
+![Screenshot](screenshot.png)
+
 Six seven!
 
 _six seven!_
